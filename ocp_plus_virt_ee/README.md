@@ -1,3 +1,3 @@
-# lab_ops_ee
+# ocp_plus_virt_ee
 
-An Ansible Execution Environment for managing and operating Red Hat based homelab instances.
+An Ansible Execution Environment for openshift resources 
